@@ -1,0 +1,5 @@
+## 数据相关路径定义
+data_path: '../dataset/'
+save_path: '../results/'
+result_save_name: 'real_test_tfm_tklet.pkl'
+epochs: 15
