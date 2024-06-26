@@ -1,4 +1,4 @@
-## Implementation code and dataset for manuscript "VisionTraj: A Noise-Robust Trajectory Recovery Framework based on Large-scale Camera Network" submitted to ICDE2024
+## Implementation code and dataset for manuscript "VisionTraj: A Noise-Robust Trajectory Recovery Framework based on Large-scale Camera Network"
 
 ### TL;DR
 
